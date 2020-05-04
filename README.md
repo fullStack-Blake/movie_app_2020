@@ -1,5 +1,7 @@
 # Movie App 2020
 
+This is a movie recommendation website built on React
+
 ### Address: https://fullstack-blake.github.io/movie_app_2020/#/
 
 
